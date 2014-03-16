@@ -25,18 +25,20 @@ C
 ---
 
 ```
-cd c
-gcc HelloWorld.c -o HelloWorld
-./HelloWorld
+$ cd c
+$ gcc HelloWorld.c -o HelloWorld
+$ ./HelloWorld
+Hello, world!
 ```
 
 C++
 ---
 
 ```
-cd cpp
-g++ HelloWorld.cpp -o HelloWorld
-./HelloWorld
+$ cd cpp
+$ g++ HelloWorld.cpp -o HelloWorld
+$ ./HelloWorld
+Hello, world!
 ```
 
 
@@ -91,7 +93,16 @@ TODO
 
 [Erlang](http://www.erlang.org/)
 ---
-TODO
+```
+$ cd erlang
+$ erl								//start erlang shell
+1> c(helloworld).					//compile helloworld.erl
+{ok,helloworld}
+2> helloworld:hello_world().		//run helloworld.beam
+Hello, world!
+ok
+3> init:stop().						//stop down the erlang shell cleanly
+```
 
 
 
@@ -129,18 +140,26 @@ Java
 ---
 
 ```
-cd java
-javac HelloWorld.java
-java HelloWorld
+$ cd java
+$ javac HelloWorld.java
+$ java HelloWorld
+Hello, world!
 ```
 
 
 
 JavaScript
 ---
+
 ```
-cd javscript
-open ./index.html
+$ cd javscript
+$ open ./index.html
+```
+
+Open Javascript console in browser
+
+```
+Hello, world!
 ```
 
 
@@ -155,8 +174,9 @@ TODO
 ---
 
 ```
-cd lolcode
-lci HelloWorld.lol
+$ cd lolcode
+$ lci HelloWorld.lol
+Hello, world!
 ```
 
 
@@ -177,9 +197,10 @@ Objective-C
 ---
 
 ```
-cd objective-c
-gcc HelloWorld.m -o HelloWorld
-./HelloWorld
+$ cd objective-c
+$ gcc HelloWorld.m -o HelloWorld
+$ ./HelloWorld
+Hello, world!
 ```
 
 
@@ -206,8 +227,9 @@ TODO
 ---
 
 ```
-cd perl
-perl HelloWorld.pl
+$ cd perl
+$ perl HelloWorld.pl
+Hello, world!
 ```
 
 
@@ -228,8 +250,9 @@ TODO
 ---
 
 ```
-cd python
-python HelloWorld.py
+$ cd python
+$ python HelloWorld.py
+Hello, world!
 ```
 
 
@@ -250,8 +273,9 @@ TODO
 ---
 
 ```
-cd ruby
-ruby HelloWorld.rb
+$ cd ruby
+$ ruby HelloWorld.rb
+Hello, world!
 ```
 
 
@@ -266,9 +290,10 @@ TODO
 ---
 
 ```
-cd scala
-scalac HelloWorld.scala
-scala HelloWorld
+$ cd scala
+$ scalac HelloWorld.scala
+$ scala HelloWorld
+Hello, world!
 ```
 
 
