@@ -7,7 +7,7 @@ C
 
 ```
 cd c
-gcc HelloWorld.m -o HelloWorld
+gcc HelloWorld.c -o HelloWorld
 ./HelloWorld
 ```
 
