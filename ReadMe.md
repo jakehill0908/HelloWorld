@@ -47,12 +47,6 @@ TODO
 
 
 
-C++
----
-TODO
-
-
-
 [chicken](http://torso.me/chicken)
 ---
 TODO
