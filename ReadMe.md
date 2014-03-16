@@ -11,6 +11,15 @@ gcc HelloWorld.m -o HelloWorld
 ./HelloWorld
 ```
 
+C++
+---
+
+```
+cd cpp
+g++ HelloWorld.cpp -o HelloWorld
+./HelloWorld
+```
+
 Java
 ---
 
