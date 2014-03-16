@@ -4,7 +4,8 @@ Hello, world!
 C
 ---
 
-```cd c
+```
+cd c
 gcc HelloWorld.m -o HelloWorld
 ./HelloWorld
 ```
@@ -12,7 +13,8 @@ gcc HelloWorld.m -o HelloWorld
 Java
 ---
 
-```cd java
+```
+cd java
 javac HelloWorld.java
 java HelloWorld
 ```
@@ -20,7 +22,8 @@ java HelloWorld
 JavaScript
 ---
 
-```cd javscript
+```
+cd javscript
 open ./index.html
 ```
 Open JavaScript console in browser
@@ -29,14 +32,16 @@ Open JavaScript console in browser
 [LOLCODE](http://lolcode.org/)
 ---
 
-```cd lolcode
+```
+cd lolcode
 lci HelloWorld.lol
 ```
 
 Objective-C
 ---
 
-```cd objective-c
+```
+cd objective-c
 gcc HelloWorld.m -o HelloWorld
 ./HelloWorld
 ```
@@ -44,28 +49,32 @@ gcc HelloWorld.m -o HelloWorld
 [Perl](http://www.perl.org/)
 ---
 
-```cd perl
+```
+cd perl
 perl HelloWorld.pl
 ```
 
 [Python](http://python.org)
 ---
 
-```cd python
+```
+cd python
 python HelloWorld.py
 ```
 
 [Ruby](http://ruby-lang.org)
 ---
 
-```cd ruby
+```
+cd ruby
 ruby HelloWorld.rb
 ```
 
 [Scala](http://www.scala-lang.org/)
 ---
 
-```cd scala
+```
+cd scala
 scalac HelloWorld.scala
 scala HelloWorld
 ```
