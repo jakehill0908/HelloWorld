@@ -297,8 +297,12 @@ Hello, world!
 
 [Rust](http://www.rust-lang.org/)
 ---
-TODO
-
+```
+$ cd rust
+$ rustc HelloWorld.rs
+$ ./HelloWorld
+Hello, world!
+```
 
 
 [Scala](http://www.scala-lang.org/)
