@@ -1,5 +1,6 @@
 Hello, world!
 ===
+As a very basic experiment I want to see how many different languages I can install and at least create a simple "Hello, world" example of. Through this process I will try and document how to compile (if necessary) and run the code.
 
 C
 ---
@@ -21,7 +22,7 @@ java HelloWorld
 
 JavaScript
 ---
-
+*This is kinda hacky but I'm gonna keep it here*
 ```
 cd javscript
 open ./index.html
