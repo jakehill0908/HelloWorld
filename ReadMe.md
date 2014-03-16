@@ -75,7 +75,13 @@ TODO
 
 [D](http://dlang.org/)
 ---
-TODO
+
+```
+$ cd d
+$ dmd HellloWorld.d
+$ ./HelloWorld
+Hello, world!
+```
 
 
 
