@@ -26,7 +26,16 @@ C
 
 ```
 cd c
-gcc HelloWorld.m -o HelloWorld
+gcc HelloWorld.c -o HelloWorld
+./HelloWorld
+```
+
+C++
+---
+
+```
+cd cpp
+g++ HelloWorld.cpp -o HelloWorld
 ./HelloWorld
 ```
 
