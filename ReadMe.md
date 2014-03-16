@@ -2,6 +2,7 @@ Hello, world!
 ===
 `Hello, world!` in a myriad of different programming languages.
 
+Below you will find all the languages currently completed or planned. Instructions on how to compile and run each script will be provided.
 
 [///](http://esolangs.org/wiki////)
 ---
@@ -75,7 +76,21 @@ TODO
 
 [D](http://dlang.org/)
 ---
-TODO
+
+```
+$ cd d
+$ dmd HellloWorld.d
+$ ./HelloWorld
+Hello, world!
+```
+
+or 
+
+```
+$ cd d
+rdmd HelloWorld.d					//Compile and execute
+Hello, world!
+```
 
 
 
@@ -101,7 +116,7 @@ $ erl								//start erlang shell
 2> helloworld:hello_world().		//run helloworld.beam
 Hello, world!
 ok
-3> init:stop().						//stop down the erlang shell cleanly
+3> init:stop().						//stop the erlang shell cleanly
 ```
 
 
@@ -282,8 +297,12 @@ Hello, world!
 
 [Rust](http://www.rust-lang.org/)
 ---
-TODO
-
+```
+$ cd rust
+$ rustc HelloWorld.rs
+$ ./HelloWorld
+Hello, world!
+```
 
 
 [Scala](http://www.scala-lang.org/)
