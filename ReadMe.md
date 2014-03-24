@@ -73,10 +73,12 @@ Hello, World!
 ```
 or
 
+
+```
 $ cd coffee-script
 $ coffee HelloWorld.coffee        //Compile and execute
 Hello, World!
-
+```
 
 [Common Lisp](http://www.common-lisp.net/)
 ---
