@@ -64,9 +64,21 @@ TODO
 
 [CoffeeScript](http://coffeescript.org/)
 ---
-TODO
+
+```
+$ cd coffee-script
+$ coffee -c HelloWorld.coffee
+$ node HelloWorld.js
+Hello, World!
+```
+or
 
 
+```
+$ cd coffee-script
+$ coffee HelloWorld.coffee        //Compile and execute
+Hello, World!
+```
 
 [Common Lisp](http://www.common-lisp.net/)
 ---
