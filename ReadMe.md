@@ -16,10 +16,6 @@ TODO
 
 
 
-[Brainfuck](http://esolangs.org/wiki/Brainfuck)
----
-TODO
-
 
 
 C
